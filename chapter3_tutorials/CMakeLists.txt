@@ -10,7 +10,7 @@ find_package(catkin REQUIRED
       sensor_msgs
       visualization_msgs
       dynamic_reconfigure
-      driver_base
+      #driver_base
       diagnostic_updater
       cv_bridge
       image_transport
@@ -35,7 +35,7 @@ catkin_package(
       sensor_msgs
       visualization_msgs
       dynamic_reconfigure
-      driver_base
+      #driver_base
       diagnostic_updater
       cv_bridge
       image_transport
